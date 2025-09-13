@@ -39,6 +39,9 @@ void AirfieldEventEnded() // called when the event has ended
 
  AirfieldEvent config:
 
+## Конфигурация
+
+```json
 {
   "PVE mode (crates can only be looted by the player who first dealt damage to the NPC)": false,
   "Time after which the owner of the event will be deleted if he left the dome or left the server (for PVE mode)": 300,
@@ -151,6 +154,7 @@ void AirfieldEventEnded() // called when the event has ended
   "Type notify for 'Landing message'(only for Notify plugin)": 0,
   "SteamID for chat message icon": 0
 }
+```
 
 ![ae3](https://github.com/user-attachments/assets/b96c1a14-c5f4-4ec8-91f3-c7902e13413a)
 ![ae4](https://github.com/user-attachments/assets/950ef42d-99e8-404d-accf-f19c1925b974)
