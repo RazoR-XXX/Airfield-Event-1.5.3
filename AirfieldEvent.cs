@@ -9,7 +9,7 @@ using HarmonyLib;
 
 namespace Oxide.Plugins
 {
-    [Info("AirfieldEvent", "Fruster", "1.5.3")]
+    [Info("AirfieldEvent", "https://plugins-forum.vercel.app/", "1.5.3")]
     [Description("AirfieldEvent")]
     class AirfieldEvent : CovalencePlugin
     {
@@ -2042,4 +2042,5 @@ namespace Oxide.Plugins
         }
 
     }
+
 } 
