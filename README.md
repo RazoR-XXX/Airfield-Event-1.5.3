@@ -154,3 +154,4 @@ void AirfieldEventEnded() // called when the event has ended
 
 ![ae3](https://github.com/user-attachments/assets/b96c1a14-c5f4-4ec8-91f3-c7902e13413a)
 ![ae4](https://github.com/user-attachments/assets/950ef42d-99e8-404d-accf-f19c1925b974)
+![ae7](https://github.com/user-attachments/assets/8736eebe-3005-462a-822a-4a2aced10078)
