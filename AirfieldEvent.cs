@@ -11,7 +11,7 @@ namespace Oxide.Plugins
 {
     [Info("AirfieldEvent", "https://plugins-forum.vercel.app/", "1.5.3")]
     [Description("AirfieldEvent")]
-    class AirfieldEvent : CovalencePlugin
+    class AirfieldEvent : RustPlugin
     {
         public static List<Vector3> points = new List<Vector3>();
         private BaseEntity planeEntity;
@@ -2044,3 +2044,4 @@ namespace Oxide.Plugins
     }
 
 } 
+
