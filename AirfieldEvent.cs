@@ -9,7 +9,7 @@ using HarmonyLib;
 
 namespace Oxide.Plugins
 {
-    [Info("AirfieldEvent", "RazoR-XXX", "1.5.3")]
+    [Info("AirfieldEvent", "Fruster", "1.5.3")]
     [Description("AirfieldEvent")]
     class AirfieldEvent : RustPlugin
     {
@@ -2044,5 +2044,6 @@ namespace Oxide.Plugins
     }
 
 } 
+
 
 
